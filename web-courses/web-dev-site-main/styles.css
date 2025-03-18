@@ -1,0 +1,82 @@
+*{
+    margin:0;
+    padding:0;
+  }
+  /* header */
+  .header h1{
+    display:inline;
+    margin-right:500px;
+    margin-left:50px;
+  }
+  .header button{
+    border: none ;
+    padding:10px 5px;
+    font-size:18px;
+    background-color:#6610F2;
+    color:white;
+  }
+  .header{
+    padding:20px 20px;
+    background-color: #D11149;
+    color:white;
+  }
+  /*  main section*/
+  .main{
+    padding:50px 200px;
+    background-color:#E6C229;
+  
+  }
+  .main img{
+    height:200px;
+    width:200px;
+  }
+  .main p{
+    margin-top:20px;
+    margin-bottom:10px;
+  }
+  
+  /*  section */
+  .section{
+    padding: 20px;
+  }
+  .section h2{
+    text-align:center;
+    color:  #333;
+  }
+  /*  course */
+  
+  .course{
+   background-color: #e0f2f1;
+    width:500px;
+    margin:50px auto;
+    /* margin-left: auto;
+    margin-right: auto; */
+    padding:20px 20px;
+  }
+  .course h4{
+    text-align:center;
+  }
+  .course p{
+    margin-top:30px;
+    margin-bottom:25px;
+  }
+  .course button{
+     background-color:#0a0a23;
+      color: #fff;
+      border:none; 
+      border-radius:10px; 
+      padding:15px;
+  }
+  .footer{
+    background-color:#377771;
+    padding:60px ;
+    text-align:center;
+  }
+  
+  .fa-brands {
+    font-size:50px;
+    margin-top:20px;
+    margin-bottom:20px;
+  }
+  
+  
